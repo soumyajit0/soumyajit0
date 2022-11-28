@@ -1,4 +1,4 @@
-
+![logo](https://i.pinimg.com/originals/4e/af/4b/4eaf4b191d08b09368134f4f8939c277.gif)
 <h1 align="center">Hi 👋, I'm Soumyajit Dey Sarkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images3.alphacoders.com/952/952399.jpg">
