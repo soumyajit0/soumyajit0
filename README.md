@@ -1,7 +1,7 @@
-![MasterHead](https://www.icegif.com/wp-content/uploads/2022/11/icegif-569.gif)
+![MasterHead]([https://www.icegif.com/wp-content/uploads/2022/11/icegif-569.gif](https://comicvine.gamespot.com/a/uploads/original/11124/111241030/4942818-sasuke_-_ems_susanoo.gif))
 <h1 align="center">Hi 👋, I'm Soumyajit Dey Sarkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/93/79/44937962e49987b151d9dc37ffbdabdc.gif”>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/uchiha-akatsuki-itachi-kN79e1NI1QErC?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit0&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajit0" /> </p>
 
