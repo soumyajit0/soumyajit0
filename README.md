@@ -1,7 +1,7 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/2022/11/icegif-569.gif)]
+![MasterHead](https://www.icegif.com/wp-content/uploads/2022/11/icegif-569.gif)
 <h1 align="center">Hi 👋, I'm Soumyajit Dey Sarkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/aLUOlVX7OOoAAAAd/naruto.gif”>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/93/79/44937962e49987b151d9dc37ffbdabdc.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajit0&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajit0" /> </p>
 
