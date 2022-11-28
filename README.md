@@ -1,4 +1,4 @@
-![MasterHead](https://giffiles.alphacoders.com/215/215872.gif)
+
 <h1 align="center">Hi 👋, I'm Soumyajit Dey Sarkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images3.alphacoders.com/952/952399.jpg">
